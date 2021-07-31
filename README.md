@@ -1,5 +1,7 @@
 # Blockchain
 
+> We can use blockchain to record any type of transaction or data. Examples include recording an agreement to buy a house, recording a vote, and even recording a marriage contract.
+
 I decided to build a blockchain-based ledger system, complete with a user-friendly web interface. This ledger allows partner banks to conduct financial transactions and to verify the integrity of the data in the ledger.
 
 
@@ -23,10 +25,9 @@ In order to open and run this program you have to follow these steps:
 
 * Open Git Bash in your computer 
 
-* Clone the repository by typing ```git clone``` and paste the link ```git@github.com:nestor39/blockchain_18.git``` :
-```git clone git@github.com:nestor39/blockchain_18.git```
+* Clone the repository by typing ```git clone``` and paste the link ```git@github.com:nestor39/blockchain_18.git```.
 
-After clonning the repository, you  must type in Git Bash the following code line: ```Streamlit run pychain.py```, this code is going to direct you to a visual interface in streamlit in which you can see and test the code.
+After cloning the repository, you  must type in Git Bash the following code line: ```Streamlit run pychain.py```, this code is going to direct you to a visual interface on streamlit in which you can see and test the code.
 
 ![image](https://user-images.githubusercontent.com/80844686/127586734-e4c166af-636a-450b-b592-5bd03837deca.png)
 
